@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehina</h1>
 <h3 align="center">A Passionate Software Developer from Canada</h3>
 
-- 🔭 I’m currently working on **Neat (Cleaning Marketplace)**
+- 🔭 I’m currently working on **Neat (Cleaning Marketplace) and Personal Portfolio Website**
 
 - 🌱 I’m currently learning **Express.js, MongoDB, Flutter, React-Native, Java and Python**
 
